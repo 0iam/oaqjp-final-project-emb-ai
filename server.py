@@ -33,7 +33,7 @@ def emotion_predictor():
 
     # Return an error message when black text is submitted
     if response["dominant_emotion"] is None:
-        return "Invalid text! Please try again!"
+        return "Invalid input! Try again."
 
     # Format and return the emotion scores and dominant emotion.
     return (

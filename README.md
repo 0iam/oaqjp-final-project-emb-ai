@@ -167,8 +167,3 @@ GitHub repository:
 ```text
 https://github.com/0iam/oaqjp-final-project-emb-ai
 ```
-
-## Author
-
-Developed as part of the IBM Generative AI Engineering final project.
-
